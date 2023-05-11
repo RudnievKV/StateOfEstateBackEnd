@@ -1,0 +1,10 @@
+MonteNegRo/bin/
+MonteNegRo/Migrations/
+MonteNegRo/obj/
+MonteNegRo/appsettings.json
+.vs/
+AuthorizationApi/obj/
+AuthorizationApi/bin/
+AuthorizationApi/appsettings.json
+AuthorizationApi/appsettings.Development.json
+MonteNegRo/appsettings.Development.json
